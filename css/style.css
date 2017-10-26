@@ -1,0 +1,37 @@
+/* Stylesheet for custom page*/
+body{
+	background:url(../images/leaf.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.banner{
+	text-align:center;
+	padding:10px;
+	background-color:#33AFFF;
+}
+.banner_link{
+	margin:15px;
+	color:white;
+	font-style:bold;
+	font-size:1.5em;
+}
+.section{
+	background-color:rgba(0,0,0,.5);
+	display:block;
+}
+.section_table{
+	color:white;
+	font-size:1.5em;
+}
+.section_table_left{
+	width:30%;
+	margin:5px;
+	padding:5px;
+}
+.section_table_right{
+	width:70%;
+	margin:5px;
+	padding:5px;
+}
